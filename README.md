@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">👩‍💻 About Me<br>Hello,My name is Ruchaka Ravisara and 22 years old. 😎<br>I'm a student currently studying Software Engeneering at IJSE.❤️<br>As a student, I have faced many challenges, from learning new programming languages to solving complex problems. However, these challenges have only made me more determined to succeed and have taught me the value of perseverance and hard work. My expertise lies in software development, web development, and database management. I have experience in Java,javascript,spring,springboot,react,nodejs,express and mysql</p>
+<p align="left">Hello,My name is Ruchaka Ravisara and 22 years old. I'm a student currently studying Software Engeneering at IJSE. As a student, I have faced many challenges, from learning new programming languages to solving complex problems. However, these challenges have only made me more determined to succeed and have taught me the value of perseverance and hard work. My expertise lies in software development, web development, and database management. I have experience in java,javascript,react,spring,springboot,nodejs,express and mysql</p>
 
 ###
 
